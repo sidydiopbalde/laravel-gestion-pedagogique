@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "laravel-gestion-pedagogique",
+  "private_key_id": "46808667374ea4f3e726511781f41c1cc44aaf84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLBxtDgcP8uLjt\nEWLgDloheXWXzA7fwnC1OZ7waKCBKCy9nCjyLm1X+51iI9bEX52YepxxiQlU2OzK\nle5gvOG161EISz3kQeIzlwCyVW5twsxQyNu/mHO+XLib9quP3n45s3RbnOvktEnb\nq2dn3Mp94AZUJG7V76olxV0IVR2blWOIqj/ROCNGT/XS4zmwNOE4S7U5gJFzM/MP\nm5rKq0qOai4ZiyoW+61dtW4zzAyu1aRkGHECUAamWF18HYPoOaosjS+jqJJfrJge\nY5qa5fQNk8kMDjTUxdx8DZcL2qTD3WTxOEKW+SsbsM4y9QPcs+jTe+FRL/DHKC3S\nSnVvz1+jAgMBAAECggEACti9vKQLwbj1z83eJtMCzOrp/OOe7kEQsMJYXn/HlMCo\nqCRkP2ZBsHHOsMJj9eUJKRnGDqkxvCcZlwTsyp2AP/Uc0v1xoxhf/GiaAIl9HlSf\nZam0j8OysRbsC4JhjfAuA6Hur/qDYcTadRJSlf/CrJSRw8PQ99is2SHZ5ydWS4xW\npkfFsty2RUbZQEppSWOg/5qmGHtX1UibxGWXxDYymW+ZvSJCa+OHikYbFhZQPYC/\n0Uq5IKc6HAuWzVw0g012UzwdzWGPqRSbH0tXqYZ/BVHGcQVnE69AY4I/bN7eFfNi\npHTJaIZa3TSRmZjoPdckPxvdKG/DnuvOGTLLByUiFQKBgQDm8QGHu2n88KFTzfOP\nVAZFR5qnEh9CndFQbm2yg7SgYz+kL04rdf6dHTuSnYNAioTqE1gCgKEB/nsvdSvW\npLZkPMp3LNlPAQKngPSSU9uyDGJ5heL8cM55U7Q24q4yWqPSn/xeAzW17UVsId1j\n0Fza8uK9ZZvVFHRgGYKvrbviBwKBgQDhDrnwgTk3+hEnpjG3WUaZdiqmLE/ShMds\nFJuETye5Jc1IVDMwYKycypw2V7RKcnxD7eIrIYWtGG+oq8ej5nVCDybsbffu2ndx\nQxS6mvUtO5tnRwIDHGHGLKcq/RVeqaNmf/TQRdbH3PkUhvFdXlP8L2rf9QQnjsmV\nKYFGqZD+hQKBgBaa+qpdlvdSWohIfZHHCMIZSzMVXAf6SLXVyVkS+UhFzsH0e3NX\nnm+kn+MvFdzocjAzaob8LkZysX4ouvzMrKnNJYha1H6eO7NHtSjpmnSoL69zgo9x\nP1Sy8833jFOTebuxO1O8frJrIkN+YRxXFe+8nKMrYgCOewG5HYiyudRbAoGBALVM\nIamGz8syHUOtc/tZZbAWKwE2TQ8ve16rsyQAh+V0eEw92Aauuh6McQ6t1ETsuQIX\nzcwk8wSf3MMprmdwLSGMBzUK2WGGiBWrjjVMwxkvHV8zKoHLCVCVhAzzV5WsXj8h\n8Nseh4j1j4ljs2gdptZOdG/5duFO+0C38LY1vuHpAoGBAMFhB9qw2JX9jPZxGBJG\nEfGtFEcCCsFMJoBSbe7eomE+EfcNxCOuwzZzQJra2BntW5L56P/ZiFKe8cF9qh/U\n8poUoVNzu1EBv8h+XiDoMW7h9PqNF2/n8t+SImx94TKtwAPiu9QMNNH6tupIqWMU\nw4AN+RyNx/Mz8eWPNH/aQ7mz\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-998s7@laravel-gestion-pedagogique.iam.gserviceaccount.com",
+  "client_id": "109234211655190327575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-998s7%40laravel-gestion-pedagogique.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
